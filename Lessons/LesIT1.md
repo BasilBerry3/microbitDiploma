@@ -72,6 +72,11 @@
 
 ### Текстовый код (Python)
 
+```python
+basic.show_string("Ivan")
+basic.show_icon(IconNames.HEART)
+```
+
 ---
 
 # ТЕХНОЛОГИЧЕСКАЯ КАРТА УРОКА
