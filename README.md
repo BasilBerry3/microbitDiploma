@@ -36,6 +36,5 @@
 | **Терморегуляция** | 🌡️ Измерение температуры | [Читать материал](./Lessons/LesBio2.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:12879-19796-45720-01650) |
 | **Сердечно-сосудистая система** | ❤️ Пульсометр | [Читать материал](./Lessons/LesBio3.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:94834-64806-42015-23003) |
 | **Экология** | 🌱 Мониторинг среды | [Читать материал](./Lessons/LesBio4.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:01507-97259-49909-35003) |
-| **Нервная система** | 🎮 Реакция на стимулы | [Читать материал](./Lessons/LesBio5.md) | [Запустить Tutorial](ссылка_из_tools) |
 
 ---
