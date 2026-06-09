@@ -23,8 +23,8 @@
 | **Механическое движение** | 📏 Измерение скорости | [Читать материал](./Lessons/LesPH1.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:72697-44425-80889-82647) |
 | **Электричество** | ⚡ Проводник/непроводник | [Читать материал](./Lessons/LesPH2.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:21223-83998-34482-16583) |
 | **Колебания и волны** | 📳 Сейсмограф | [Читать материал](./Lessons/LesPH3.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:74272-22566-10270-74468) |
-| **Оптика** | 💡 Умный светильник | [Читать материал](./Lessons/LesPH4.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:74272-22566-10270-74468) |
-| **Магнетизм** | 🧲 Магнитный детектор | [Читать материал](./Lessons/LesPH5.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:74272-22566-10270-74468) |
+| **Оптика** | 💡 Умный светильник | [Читать материал](./Lessons/LesPH4.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:95334-49665-26843-42834) |
+| **Магнетизм** | 🧲 Магнитный детектор | [Читать материал](./Lessons/LesPH5.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:89933-84827-75958-97187) |
 
 ---
 
