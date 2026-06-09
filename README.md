@@ -11,7 +11,7 @@
 | **Событийно-ориентированное программирование** | 🎲 Кубик для настольных игр | [Читать материал](./Lessons/Les.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:98152-03274-04866-27267) |
 | **Условные операторы** | 🧭 Цифровой компас | [Читать материал](./Lessons/LesIT2.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:11934-76221-14083-87438) |
 | **Переменные** | 👣 Шагометр | [Читать материал](./Lessons/LesIT3.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:80860-51903-96726-11261) |
-| **Массивы и списки** | ℹ️ Регистратор данных | [Читать материал](./Lessons/LesIT4.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:80860-51903-96726-11261) |
+| **Массивы и списки** | ℹ️ Регистратор данных | [Читать материал](./Lessons/LesIT4.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:65339-72767-76663-85874) |
 | **Логические операции** | 📻 Радио-чат | [Читать материал](./Lessons/LesIT5.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:06301-66195-97922-47045) |
 
 ---
