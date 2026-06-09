@@ -12,7 +12,7 @@
 | **Условные операторы** | 🧭 Цифровой компас | [Читать методичку](./Lessons/LesIT2.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:11934-76221-14083-87438) |
 | **Переменные** | 👣 Шагометр | [Читать методичку](./Lessons/LesIT3.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:80860-51903-96726-11261) |
 | **Массивы и списки** | ℹ️ Регистратор данных | [Читать методичку](./Lessons/LesIT4.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:80860-51903-96726-11261) |
-| **Логические операции** | 📻 Радио-чат | [Читать методичку](./Lessons/LesIT5.md) | [Запустить Tutorial](ссылка_из_tools) |
+| **Логические операции** | 📻 Радио-чат | [Читать методичку](./Lessons/LesIT5.md) | [Запустить Tutorial](https://makecode.microbit.org/#tutorial:06301-66195-97922-47045) |
 
 ---
 
